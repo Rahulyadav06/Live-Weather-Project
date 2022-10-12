@@ -188,14 +188,14 @@ sup{
     margin-top: -2rem;
 }
 .data_hide{
-    /* visibility: hidden; */
+    visibility: hidden;
     transition: all 0.3s linear;
 }
 /* error message */
-/* .error_img{
+.error_img{
     width: 60rem;
     height: 30rem;
-} */
+}
 /* footer code */
 footer{
     width: 100%;
